@@ -1,0 +1,19 @@
+.posterdivnew {
+  display: flex;
+  flex-direction: row;
+  width:192px;
+ 
+
+}
+
+.imgmoviespath{
+    padding: 5px;
+   
+}
+
+.mainmovielists{
+   
+    overflow: auto;
+  white-space: nowrap;
+
+}

@@ -1,0 +1,40 @@
+.videotitelbuton{
+    display: flex;
+    flex-direction: row;
+    
+}
+.videotitlemain{
+    top: 296px;
+    left: 51px;
+    position: absolute;
+}
+
+.title{
+    font-size: 36px;
+    font-weight: bold;
+    color:white;
+}
+
+.overview{
+    font-size: 18px;
+    font-weight: 600;
+    width: 50%;
+    color:white;
+}
+
+.moreinfo{
+    background-color: black;
+    color: white;
+    width: 100px;
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 10px
+}
+
+.play{
+    background-color: aliceblue;
+    color: black;
+    width: 100px;
+    padding: 8px;
+    border-radius: 10px;
+}

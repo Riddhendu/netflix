@@ -1,0 +1,9 @@
+.youtubevideo{
+    display: block; 
+    width: 100vw;
+    height: 100vh; 
+    border: none; 
+    overflow-y: auto; 
+    overflow-x: hidden;
+  position: relative; /* If you want text inside of it */
+}

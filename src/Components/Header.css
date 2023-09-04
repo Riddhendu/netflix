@@ -1,0 +1,27 @@
+.netfiximg{
+    width: 260px;
+    height: 42px;
+    padding-left: 225px;
+    padding-top: 32px;
+    position:relative;
+    z-index: 10px;
+}
+.usericon{
+    width: 52px;
+    height: 39px;
+    padding-left: 225px;
+    padding-top: 32px;
+    position:absolute;
+    z-index: 10px;
+    left:1000px;
+}
+
+.signout{
+    border: 1px solid gray;
+    border-radius: 10px;
+    color: darkblue;
+    position:absolute;
+    z-index: 10px;
+    left: 1282px;
+    top: 52px;
+}
